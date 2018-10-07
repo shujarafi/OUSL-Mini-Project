@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shuja/CLionProjects/TASK00/filehandle.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+
+/home/shuja/CLionProjects/TASK00/items.h
+stdio.h
+-
+string.h
+-
+stdlib.h
+-
+filehandle.h
+/home/shuja/CLionProjects/TASK00/filehandle.h
+
+/home/shuja/CLionProjects/TASK00/main.c
+stdio.h
+-
+stdlib.h
+-
+items.h
+/home/shuja/CLionProjects/TASK00/items.h
+string.h
+-
+
