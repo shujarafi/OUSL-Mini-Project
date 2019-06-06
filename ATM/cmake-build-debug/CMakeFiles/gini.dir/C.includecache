@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/shuja/gini/customer.h
+string.h
+-
+stdio.h
+-
+stdlib.h
+-
+filehandle.h
+/home/shuja/gini/filehandle.h
+
+/home/shuja/gini/filehandle.h
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+
+/home/shuja/gini/main.c
+stdio.h
+-
+stdlib.h
+-
+customer.h
+/home/shuja/gini/customer.h
+

@@ -1,0 +1,3 @@
+/home/shuja/gini/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/shuja/gini/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/shuja/gini/cmake-build-debug/CMakeFiles/gini.dir
